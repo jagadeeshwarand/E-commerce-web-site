@@ -1,0 +1,5 @@
+1) adding to bootstrap version 5.2
+    -> copy for one sample code
+
+2) using website for bootstrapmade.com
+    -> template
