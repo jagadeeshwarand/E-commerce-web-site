@@ -3,3 +3,7 @@
 
 2) using website for bootstrapmade.com
     -> template
+    -> free download
+
+3) live run server commend 
+    -> python manage.py runserver
