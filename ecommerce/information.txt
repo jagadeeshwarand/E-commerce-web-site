@@ -7,3 +7,17 @@
 
 3) live run server commend 
     -> python manage.py runserver
+
+4) create a static folder - It is used to storing the images and style and javascript
+
+5) template inside create  a sub folder 
+    -> sub folder name - authentication
+
+6)another create a one more application file
+    -> name - authcart
+                ->create a files
+                    -> urls.py
+                    -> utils.py
+
+7)
+                    
