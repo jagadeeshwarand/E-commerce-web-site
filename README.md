@@ -92,13 +92,4 @@ Contributing
 ------------
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-License
--------
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
--------
-For any inquiries, please contact:
-- Name: Your Name
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
